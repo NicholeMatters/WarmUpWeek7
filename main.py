@@ -54,4 +54,4 @@ print(Sorting(list))
 # Str -> <city name>, state
 # Make an instance of this class for your city
 
-class City(Name, State)
+class City:
